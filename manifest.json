@@ -1,0 +1,9 @@
+{
+  "format": "EPIROC-SRM-RELEASE",
+  "version": "3.5",
+  "issuedAt": "2026-11-14T11:31:37.569Z",
+  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/Epiroc_Service_Report_Manager_Offline_v3_5.html",
+  "sha256": "49312673f4b5c7619a11ab1737b142be077d498675caec4e9bc135e78ee93aa8",
+  "releaseNotes": "Initial signed GitHub Pages release of Epiroc Service Report Manager v3.5.",
+  "signature": "UBaZ8bnpQ3uWs4IlLrkTsZR1SNDpxmJED6fVXnvXetMiTJoTdtdGJzN+hsbsOeBjuQTGZa1dJEDJ0rnY56rS3w=="
+}
