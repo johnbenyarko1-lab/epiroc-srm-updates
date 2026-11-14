@@ -11,25 +11,27 @@ Owner-controlled distribution repository for the offline Epiroc Service Report M
 - Updates are notification-only: users approve download and installation.
 - The application remains usable offline.
 
-## Repository layout
+## Published release layout
 ```
 /
   README.md
-  manifest.json                 # publish only after signing a release
-  Epiroc_Service_Report_Manager_Offline_vX_Y.html
+  manifest.json
+  releases/
+    Epiroc_Service_Report_Manager_Offline_v3_5.html
   keys/OWNER_PUBLIC_KEY.pem
   tools/sign-release.js
   docs/RELEASE_PROCESS.md
 ```
 
 ## Current status
-- Repository created and Owner-controlled release documentation committed.
-- Public verification key and offline signing utility committed.
-- The v3.5 HTML application and signed manifest are NOT yet published.
-- GitHub Pages is NOT yet enabled.
-- Repository name currently includes a leading hyphen; recommended final name: `epiroc-srm-updates`.
+- Repository is public: `johnbenyarko1-lab/epiroc-srm-updates`.
+- Owner public verification key, signing utility and release instructions are published.
+- Epiroc Service Report Manager v3.5 HTML and its signed manifest have been committed.
+- The v3.5 manifest SHA-256 matches the local v3.5 HTML file.
+- GitHub Pages deployment is shown as successful in the repository.
+- End-to-end browser update verification and tampered-file rejection testing are still pending.
 
-## Owner release checklist
+## Release checklist
 1. Review and test the release HTML.
 2. Upload the exact HTML release file.
 3. Calculate SHA-256 and sign the canonical manifest using the Owner private key on the Owner's trusted computer.
