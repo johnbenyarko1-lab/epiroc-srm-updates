@@ -1,9 +1,9 @@
 {
   "format": "EPIROC-SRM-RELEASE",
-  "version": "3.6",
-  "issuedAt": "2026-11-14T15:00:00.000Z",
-  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/Epiroc_Service_Report_Manager_Offline_v3_6.html",
-  "sha256": "44724f5abe5a660a373d3d2ab5700ca003cd1a4e319f53d6d38ccc0653328c1a",
-  "releaseNotes": "Version 3.6: adds a deliberate Owner access reset and first-time Owner plus initial Administrator setup while preserving local project and report data; preconfigures the official signed update manifest.",
-  "signature": "URz/zOL06RIvi6rcHxVrOKCSAcEui0GHKHe9AWkxI4+XCnrKLkcSqe04K9XQzhy0uoN3ZdJineyP3Zx++BQIfw=="
+  "version": "3.7",
+  "issuedAt": "2026-11-15T21:56:57.635Z",
+  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/SRM_v3_7_Corrected_Automatic_Visualisations.html",
+  "sha256": "c6aa9d364b2abe52972f4f5ce6b6ee31dba085200b74f45ee29e30508848b207",
+  "releaseNotes": "SRM v3.7 automated visualisations and corrections.",
+  "signature": "HHKkSgQVHk2OBmJP8QqVbxd6S8Br6DPODauabRH4Hr5oyjfQoWOA8/n1dz8oz/GHVA7xeyD+Rr2K/KPf2Zx3+w=="
 }
