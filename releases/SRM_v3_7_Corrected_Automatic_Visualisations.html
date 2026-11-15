@@ -468,7 +468,7 @@ function showOwnerOverview(){
 const EPIROC_APP_VERSION='3.7';
 const EPIROC_UPDATE_CONFIG_KEY='epiroc_srm_update_manifest_url_v1';
 const EPIROC_DEFAULT_MANIFEST_URL='https://johnbenyarko1-lab.github.io/epiroc-srm-updates/manifest.json';
-const EPIROC_UPDATE_PUBLIC_KEY_SPKI_B64='MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE53W1KV2K/YfMjaO+8RbCFLEPJrps eIyL9tv9G2/JYLuLiC3NdrsG6QtLXfIrNQ1F59qrmrnK3QL/KgN7STD0mw=='.replaceAll(' ','');
+const EPIROC_UPDATE_PUBLIC_KEY_SPKI_B64='MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEcP4hBo/mn83KVeFtvskP5PVTqik5v4Z5Q1PaeexOxHaYof78WnEIBEtCVhNp+L6jIERpulo87m0HlNh4HB8yw=='.replaceAll(' ','');
 function configureUpdateSource(){
  if(!authCurrent||authCurrent.role!=='owner')return;
  const current=localStorage.getItem(EPIROC_UPDATE_CONFIG_KEY)||'';
