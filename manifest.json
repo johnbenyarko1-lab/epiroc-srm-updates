@@ -1,9 +1,9 @@
 {
   "format": "EPIROC-SRM-RELEASE",
   "version": "3.7",
-  "issuedAt": "2026-11-16T19:12:12.900Z",
-  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/Epiroc_SRM_v3_7_Release_Candidate_WorkshopJobNumberFix.html",
-  "sha256": "e785c690d6aed08523b82762837f4576519c22e3b9ea6fd295129b7c6e8ad485",
-  "releaseNotes": "SRM v3.7 workshop job number fix release candidate",
-  "signature": "saGtCN6AwQyT7axweB+u5KFnnyV9GwkRPcL4sfdnPn29M40pichH6WhkNaOVpwVjFI3NWcYgTKRW47Yv4YzTcA=="
+  "issuedAt": "2026-11-15T21:56:57.635Z",
+  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/SRM_v3_7_Corrected_Automatic_Visualisations.html",
+  "sha256": "c6aa9d364b2abe52972f4f5ce6b6ee31dba085200b74f45ee29e30508848b207",
+  "releaseNotes": "SRM v3.7 automated visualisations and corrections.",
+  "signature": "HHKkSgQVHk2OBmJP8QqVbxd6S8Br6DPODauabRH4Hr5oyjfQoWOA8/n1dz8oz/GHVA7xeyD+Rr2K/KPf2Zx3+w=="
 }
