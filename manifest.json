@@ -1,9 +1,9 @@
 {
   "format": "EPIROC-SRM-RELEASE",
-  "version": "3.7",
-  "issuedAt": "2026-11-15T21:56:57.635Z",
-  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/releases/SRM_v3_7_Corrected_Automatic_Visualisations.html",
-  "sha256": "c6aa9d364b2abe52972f4f5ce6b6ee31dba085200b74f45ee29e30508848b207",
-  "releaseNotes": "SRM v3.7 automated visualisations and corrections.",
-  "signature": "HHKkSgQVHk2OBmJP8QqVbxd6S8Br6DPODauabRH4Hr5oyjfQoWOA8/n1dz8oz/GHVA7xeyD+Rr2K/KPf2Zx3+w=="
+  "version": "3.7.4",
+  "issuedAt": "2026-11-17T23:05:59.946Z",
+  "downloadUrl": "https://johnbenyarko1-lab.github.io/epiroc-srm-updates/Epiroc_SRM_v3_7_4_English_French_Final_Review_Release.html",
+  "sha256": "74e04e2ad94d23ace4fd86c5c4a57540a43fd30c45a643594647c8eaf7577577",
+  "releaseNotes": "Epiroc SRM v3.7.4 English and French consolidated release",
+  "signature": "tch+iZTjI9rtzKg7waeZ7Gi5WqeDg4yCQ8JpygbG/2R5KRnDOB8RpAtegWRsErqyForvScHKObeRJJVpfdTY0w=="
 }
